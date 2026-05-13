@@ -4,13 +4,6 @@ A modern and responsive **Real Estate Web Application** designed to help users e
 
 ---
 
-## 🚀 Live Demo
-
-> Add your deployed project link here
->
-> 
----
-
 **## 📌 Features**
 
 - 🔍 Property search and filtering  
